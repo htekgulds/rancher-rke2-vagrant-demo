@@ -1,0 +1,9 @@
+write-kubeconfig-mode: 600
+token: helloworld
+cni: cilium
+# cluster-cidr: 10.233.0.0/16
+# service-cidr: 10.234.0.0/16
+# cluster-dns: 10.234.0.10
+# disable-kube-proxy: true
+node-ip: _NODE_IP_
+external-node-ip: _NODE_IP_

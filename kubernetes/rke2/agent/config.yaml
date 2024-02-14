@@ -1,0 +1,5 @@
+write-kubeconfig-mode: 600
+server: https://192.168.56.101:9345
+token: helloworld
+node-ip: _NODE_IP_
+external-node-ip: _NODE_IP_
